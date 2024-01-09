@@ -7,13 +7,7 @@
     "content-hash": "eba49990c2c9d490a1a65bd7786ae4f4",
     "packages": [
         {
-            "name": "dompdf/dompdf",
-            "version": "v1.2.0",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/dompdf/dompdf.git",
-                "reference": "60b704331479a69e9bcdb3496da2315b5c4f94fd"
-            },
+            
             "dist": {
                 "type": "zip",
                 "url": "https://api.github.com/repos/dompdf/dompdf/zipball/60b704331479a69e9bcdb3496da2315b5c4f94fd",
